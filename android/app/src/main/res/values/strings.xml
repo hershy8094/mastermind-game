@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MasterMind</string>
+    <string name="title_activity_main">MasterMind</string>
+    <string name="package_name">com.mastermind.game.app</string>
+    <string name="custom_url_scheme">com.mastermind.game.app</string>
+</resources>
